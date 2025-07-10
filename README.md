@@ -82,31 +82,13 @@ cd data-structure-algorithm-visualizer
 pip install customtkinter Pillow
 ```
 
-## Important Note :-
-Keep all the codes file in one folder and keep the images folder inside a folder named "other imp files" in the same directory like as shown below :-
-data-structure-algorithm-visualizer/
-├── codes/
-│   ├── array.py
-│   ├── strings.py
-│   ├── stack.py
-│   ├── queue.py
-│   ├── circular_queue.py
-│   ├── Singly_Linked_List.py
-│   ├── Doubly_Linked_List.py
-│   ├── Binary_tree.py
-│   ├── Binary_Search_Tree.py
-│   ├── Searching.py
-│   ├── Bubble_Sort.py
-│   ├── Selection_Sort.py
-│   ├── Insertion_Sort.py
-│   ├── Merge_Sort.py
-│   ├── Quick_Sort.py
-│   └── Radix_Sort.py
-├── other imp files/
-│   └── images/
-│       ├── bubble_sort.png
-│       ├── enqueue.png
-│       └── ... (other pseudocode images)
+## ⚠️ Important Note :-
+Keep all code files inside a codes/ folder, and keep all images inside an images/ folder located within a directory named other imp files/.
+Your project directory should look like this:
+
+<pre> data-structure-algorithm-visualizer/ ├── codes/ │ ├── array.py │ ├── strings.py │ ├── stack.py │ ├── queue.py │ ├── circular_queue.py │ ├── Singly_Linked_List.py │ ├── Doubly_Linked_List.py │ ├── Binary_tree.py │ ├── Binary_Search_Tree.py │ ├── Searching.py │ ├── Bubble_Sort.py │ ├── Selection_Sort.py │ ├── Insertion_Sort.py │ ├── Merge_Sort.py │ ├── Quick_Sort.py │ └── Radix_Sort.py │ ├── other imp files/ │ └── images/ │ ├── bubble_sort.png │ ├── enqueue.png │ └── ... (other pseudocode images) │ ├── main.py ├── README.md └── LICENSE </pre>
+
+
 
 
 
