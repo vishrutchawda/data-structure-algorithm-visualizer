@@ -82,6 +82,34 @@ cd data-structure-algorithm-visualizer
 pip install customtkinter Pillow
 ```
 
+## Important Note :-
+Keep all the codes file in one folder and keep the images folder inside a folder named "other imp files" in the same directory like as shown below :-
+data-structure-algorithm-visualizer/
+├── codes/
+│   ├── array.py
+│   ├── strings.py
+│   ├── stack.py
+│   ├── queue.py
+│   ├── circular_queue.py
+│   ├── Singly_Linked_List.py
+│   ├── Doubly_Linked_List.py
+│   ├── Binary_tree.py
+│   ├── Binary_Search_Tree.py
+│   ├── Searching.py
+│   ├── Bubble_Sort.py
+│   ├── Selection_Sort.py
+│   ├── Insertion_Sort.py
+│   ├── Merge_Sort.py
+│   ├── Quick_Sort.py
+│   └── Radix_Sort.py
+├── other imp files/
+│   └── images/
+│       ├── bubble_sort.png
+│       ├── enqueue.png
+│       └── ... (other pseudocode images)
+
+
+
 ## License:-
 This project is licensed under the MIT License. See the LICENSE file for details.
 
